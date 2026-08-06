@@ -127,14 +127,10 @@ git clone https://github.com/bchethan/Social-Media-Advertisement-Performance.git
 
 ## 📈 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
 
-```
-Dashboard Images/
-├── Overview.png
-├── Campaign Analysis.png
-└── Audience Insights.png
-```
+### Dashboard Preview
+
+![Power BI Dashboard](Dashboard.png)
 
 ---
 
@@ -160,8 +156,6 @@ Dashboard Images/
 * Build advanced DAX measures.
 * Enhance dashboard interactivity with drill-through pages.
 * Publish the dashboard using the Power BI Service.
-
----
 
 ---
 
