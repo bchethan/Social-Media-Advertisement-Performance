@@ -1,0 +1,9 @@
+Age Segment: Users aged 25–34 account for 42.2% of purchases, followed by 18–24 at 31.71%. Together, these age groups contribute approximately 74% of total purchases, making them the highest-priority customer segments for marketing efforts.
+
+Geographic Performance: The United States, United Kingdom, and Canada together contribute approximately half of all purchases. The United States leads with 33% of total purchases, making it the strongest-performing market.
+
+Campaign Performance: Campaign_35_Launch, Campaign_50_Summer, and Campaign_36_Q3 received some of the highest budgets (71,626.83, 47,274.70, and 58,801.99, respectively) but generated only 11, 8, and 10 purchases. This suggests these campaigns were less efficient and may require optimization or budget reallocation.
+
+Top-Performing Ads: Ad IDs 189, 154, 190, 56, and 179 achieved conversion rates above 9%, making them the top five performing ads. Analyzing the creative, targeting, and messaging of these ads could help improve future campaign performance.
+
+Audience Interests: Users interested in Art, Technology, Gaming, and Travel recorded the highest purchase counts among all interest categories. Although the differences between interest groups may not be large, these segments consistently rank among the top performers and represent promising audiences for future targeting.
